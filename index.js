@@ -10,7 +10,7 @@ module.exports = {
     "repourl": "https://github.com/shane-tomlinson/connect-fonts-quicksand",
     "bugsurl": false
   },
-  
+
   // Package author info
   "author": {
     "name": "Shane Tomlinson",
@@ -19,7 +19,7 @@ module.exports = {
     "githubs": "https://github.com/shane-tomlinson,https://github.com/stomlinson",
     "twitter": "@shane_tomlinson"
   },
-  
+
   // package license info
   "license": {
     "name": "SIL Open Font License",
@@ -31,7 +31,7 @@ module.exports = {
 
   // Common font information
   "font_common": {
-    "names": "quicksand-bold.otf,quicksand-bold,quicksand-bolditalic.otf,quicksand-bolditalic,quicksand-italic.otf,quicksand-italic,quicksand-light.otf,quicksand-light,quicksand-lightitalic.otf,quicksand-lightitalic,quicksand-regular.otf,quicksand-regular",
+    "names": "quicksand-bold,quicksand-bolditalic,quicksand-italic,quicksand-light,quicksand-lightitalic,quicksand-regular",
     "family": "Quicksand",
     "copyright": "Copyright (c) 2011, Andrew Paglinawan (www.andrewpaglinawan.com), with Reserved Font Name \"Quicksand\".",
     "trademark": "Quicksand Bold is a trademark of the Andrew Paglinawan.",
@@ -42,7 +42,7 @@ module.exports = {
 
 
   // where to find a locale's fonts in the fonts directory
-  "locale-to-subdirs": { 
+  "locale-to-subdirs": {
   },
 
   // what font types are enabled and what are the extensions of
@@ -54,23 +54,11 @@ module.exports = {
   // The fonts. The name of the font must be the same as the font
   // in the fonts directory.
   "fonts": {
-      "quicksand-bold.otf": {
-        "fontFamily": "Quicksand",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "local": [ "Quicksand Bold", "Quicksand-Bold" ]
-      },
       "quicksand-bold": {
         "fontFamily": "Quicksand",
         "fontStyle": "normal",
         "fontWeight": "700",
         "local": [ "Quicksand-Bold", "Quicksand-Bold" ]
-      },
-      "quicksand-bolditalic.otf": {
-        "fontFamily": "Quicksand",
-        "fontStyle": "italic",
-        "fontWeight": "700",
-        "local": [ "Quicksand Bold Italic", "Quicksand-BoldItalic" ]
       },
       "quicksand-bolditalic": {
         "fontFamily": "Quicksand",
@@ -78,23 +66,11 @@ module.exports = {
         "fontWeight": "700",
         "local": [ "Quicksand-BoldItalic", "Quicksand-BoldItalic" ]
       },
-      "quicksand-italic.otf": {
-        "fontFamily": "Quicksand",
-        "fontStyle": "italic",
-        "fontWeight": "400",
-        "local": [ "Quicksand Italic", "Quicksand-Italic" ]
-      },
       "quicksand-italic": {
         "fontFamily": "Quicksand",
         "fontStyle": "italic",
         "fontWeight": "400",
         "local": [ "Quicksand-Italic", "Quicksand-Italic" ]
-      },
-      "quicksand-light.otf": {
-        "fontFamily": "Quicksand",
-        "fontStyle": "normal",
-        "fontWeight": "300",
-        "local": [ "Quicksand Light", "Quicksand-Light" ]
       },
       "quicksand-light": {
         "fontFamily": "Quicksand",
@@ -102,23 +78,11 @@ module.exports = {
         "fontWeight": "300",
         "local": [ "Quicksand-Light", "Quicksand-Light" ]
       },
-      "quicksand-lightitalic.otf": {
-        "fontFamily": "Quicksand",
-        "fontStyle": "italic",
-        "fontWeight": "300",
-        "local": [ "Quicksand Light Italic", "Quicksand-LightItalic" ]
-      },
       "quicksand-lightitalic": {
         "fontFamily": "Quicksand",
         "fontStyle": "italic",
         "fontWeight": "300",
         "local": [ "Quicksand-LightItalic", "Quicksand-LightItalic" ]
-      },
-      "quicksand-regular.otf": {
-        "fontFamily": "Quicksand",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "local": [ "Quicksand Regular", "Quicksand-Regular" ]
       },
       "quicksand-regular": {
         "fontFamily": "Quicksand",

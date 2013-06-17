@@ -2,7 +2,7 @@
   "Author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
   "name": "connect-fonts-quicksand",
   "description": "Quicksand font pack for connect-fonts",
-  "keywords": ["font", "font-face", "CSS", "connect-fonts", "quicksand-bold.otf", "quicksand-bold", "quicksand-bolditalic.otf", "quicksand-bolditalic", "quicksand-italic.otf", "quicksand-italic", "quicksand-light.otf", "quicksand-light", "quicksand-lightitalic.otf", "quicksand-lightitalic", "quicksand-regular.otf", "quicksand-regular"],
+  "keywords": ["font", "font-face", "CSS", "connect-fonts", "quicksand-bold", "quicksand-bolditalic", "quicksand-italic", "quicksand-light", "quicksand-lightitalic", "quicksand-regular"],
   "homepage": "https://github.com/shane-tomlinson/connect-fonts-quicksand",
   "licenses": [
     {
